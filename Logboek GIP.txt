@@ -1,0 +1,116 @@
+Woensdag 4/9 - Idee gekozen voor GIP (balancerende robot)
+Donderdag 12/9 - Schetsen gemaakt voor de robot en de controller
+Donderdag 19/9 - Onderzoeksvragen bepaald en de microstep driver proberen te begrijpen
+Vrijdag 20/09 - Testen doen met Arduino C voor de microstep driver aan te sturen
+Zaterdag 21/9 - Werken voor labo microstep driver in Adruino IDE
+Zondag 22/9 - Werken voor labo microstep driver in Adruino IDE
+Donderdag 26/9 - Programma voor labo microstep driver afmaken in Arduino IDE
+Zaterdag 28/9 - Programma omzetten naar zo veel mogelijk Arduino C
+
+Donderdag 3/10 - Metingen voor labo microstep driver
+Zondag 6/10 - Laboverslag microstep driver maken
+Donderdag 10/10 - Meer metingen voor labo microstep driver en labo verbeteren
+Maandag 14/10 - Opzoekwerk doen over PID regeling
+Dinsdag 15/10 - Opzoekwerk doen over PID regeling
+Donderdag 17/10 - Opzoekwerk doen over PID regeling
+Vrijdag 18/10 - Opzoekwerk doen over PID regeling
+Zaterdag 19/10 - Opzoekwerk doen over PID regeling
+Woensdag 23/10 - Opzoekwerk doen over PID regeling
+Donderdag 24/10 - Uitzoeken hoe de rotary encoder werkt
+Zaterdag 26/10 - Opzoekwerk doen over opamp schmitt triggers 
+Maandag 28/10 - Proberen een schmitt trigger te maken met een opamp
+Dinsdag 29/10 - Schmitt trigger en programma voor de orde de vinden maken met arduino C 
+
+Zondag 3/11 - Labo microstep driver en labo verbeteren
+Woensdag 6/11 - Verslagen van PID en microstep driver afmaken en afprinten
+Zaterdag 9/11 - Theorie leren van I2C
+Dinsdag 12/11 - Theorie leren van I2C
+Woensdag 13/11 - Programma maken MPU6050 in C
+Donderdag 14/11 - Programma maken MPU6050 in C
+Vrijdag 15/11 - Proberen probleem met de MPU6050 op te lossen
+Zaterdag 16/11 - Proberen probleem met de MPU6050 op te lossen
+Zondag 17/11 - Programma maken voor MPU6050 in arduino
+Maandag 18/11 - Programma maken voor MPU6050 in arduino
+Dinsdag 19/11 - Programma maken voor MPU6050 in arduino
+Woensdag 20/11 - Programma afmaken voor MPU6050 in arduino
+Donderdag 28/11 - Orde process van de stappenmotor uitzoeken
+
+Maandag 2/12 - Programma MPU6050 met seriele plotter maken en GLCD aan de praat gekregen
+Woensdag 18/12 - Schematic componenten in Designspark tekenen
+Donderdag 19/12 - PCB componenten in Designspark tekenen
+Vrijdag 20/12 - Schema van volledige GIP maken
+Zaterdag 21/12 - Schema van arduino shield maken
+Maandag 23/12 - App maken in Appinventor
+Dinsdag 24/12 - App afmaken en testen
+Woensdag 25/12 - Testopstelling bluetooth maken en programma schrijven
+Donderdag 26/12 - Testopstelling bluetooth programma schrijven
+Vrijdag 27/12 - Testopstelling bluetooth programma afmaken en PCB van shield tekenen
+Zaterdag 28/12 - Laboverslag gyrosensor maken en alle andere verslagen verbeteren
+Zondag 29/12 - Laboverslag gyrosensor afmaken
+Maandag 30/12 - GLCD proberen te begrijpen
+
+Woensdag 1/01 - Bespreking van het schema maken
+Donderdag 2/01 - Programma GLCD afmaken
+Vrijdag 3/01 - Verslag GLCD afmaken
+Dinsdag 7/01 - PCB Versie 1 afmaken
+Donderdag 16/01 - Lasercut onderdelen schetsen
+Zaterdag 18/01 - Lasercut onderdelen schetsen
+Maandag 20/01 - Lasercut onderdelen tekenen in inventor
+Woensdag 22/01 - Lasercut onderdelen tekenen + robot assembly in inventor
+Donderdag 23/01 - Onderdelen PCB updaten
+Maandag 27/01 - PCB tekenen
+Woensdag 29/01 - PCB afmaken
+Donderdag 30/01 - Versie 1 van robot lazercutten en aan versie 2 beginnen
+Vrijdag 31/01 - Versie 2 robot en PCB afgemaakt
+
+Woensdag 5/02 - Versie 2 van de robot in elkaar steken
+Maandag 10/02 - Robot in elkaar steken en PCB inspecteren
+Woensdag 13/02 - PCB opnieuw maken
+Vrijdag 14/02 - behuizing afmaken
+Donderdag 20/02 - PCB solderen
+Zaterdag 22/02 - Main code bekijken
+Zondag 23/02 - Alle draden inpluggen en goed leggen
+Maandag 24/02 - Code eerste keer inladen en aanpassen
+Dinsdag 25/02 - Proberen de code te laten werken (robot kon eerste keer rijden)
+
+Maandag 2/03 - Oude verslagen verbeteren + labo energie maken
+Dinsdag 03/03 - Oude verslagen verbeteren
+Woensdag 04/03 - Laatste versie van robot lijmen + versie 2 van app maken
+Donderdag 05/03 - Werken aan de main code
+Vrijdag 06/03 - Behuizing proberen repareren
+Donderdag 12/03 - Robot opnieuw in elkaar steken en programma testen (robot werkte voor de eerste keer)
+Zaterdag 14/03 - Batterijen in de robot plaatsen
+Maandag 16/03 - Nieuw wiel tekenen in inventor
+Dinsdag 17/03 - Proberen de robot te laten balanceren
+Vrijdag 20/03 - Nieuwe wielen monteren
+Vrijdag 27/03 - 9V batterij houder vervangen
+
+Maandag 06/04 - PID regelen
+Vrijdag 10/4 - GLCD verbinden en programmeren
+Zaterdag 11/4 - GLCD verbinden en programmeren
+Maandag 13/4 - GLCD programmeren
+Dinsdag 21/04 - Rotary encoder nameten (kapot)
+Vrijdag 24/04 - GLCD programmeren
+Maandag 27/04 - GLCD programmeren
+Woensdag 29/04 - GLCD programmeren
+Donderdag 30/04 - Bluetooth meten/sturen programmeren
+
+Zaterdag 2/05 - Batterijen opladen
+Zondag 3/05 - Batterijen opladen
+Woensdag 6/05 - Code opkuisen
+Donderdag 7/05 - PID regelen + Bluetooth proberen te laten werken (robot balanceerd voor de eerte keer)
+Vrijdag 8/05 - PID fine tunen + Bluetooth laten werken (Robot is klaar en werkt)
+Donderdag 21/05 - Versie 3 van behuizing designen
+Maandag 25/05 - Rotary encoder desolderen en draden aan Arduino solderen
+Dinsdag 26/05 - Menu op GLCD programmeren
+
+Dinsdag 02/06 - Laatste versie van robot in elkaar steken
+Vrijdag 05/06 - Proberen robot te fixen
+Maandag 08/06 - Robot fixen
+Dinsdag 09/06 - Knoppen solderen, LCD fixen en programmeren
+Vrijdag 12/06 - LCD proberen fixen
+Zaterdag 13/06 - Verslag afmaken
+Dinsdag 16/06 - Menu programmeren en powerpoint maken voor jury
+Woensdag 17/06 - Menu op de LCD integreren in het main programma
+Zondag 21/06 - Presentatie afmaken
+Dinsdag 23/06 - Voorbereiden voor de presentatie

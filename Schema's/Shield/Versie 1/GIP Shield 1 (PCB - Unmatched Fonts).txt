@@ -1,0 +1,22 @@
+Unmatched Fonts
+---------------
+
+Report Written:     Wednesday, January 08, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\PCB\GIP Shield 1.pcb
+Design Title:       
+Created:            7/01/2020 20:53:17
+Last Saved:         8/01/2020 8:34:00
+Editing Time:       92 min
+Units:              mm (precision 3)
+
+
+The design has unmatched fonts on this system for the following:
+================================================================
+
+
+Unmatched fonts on named styles:
+================================
+
+    Font '@Arial Unicode MS' used by text style 'Normal'
+
+End Of Report.

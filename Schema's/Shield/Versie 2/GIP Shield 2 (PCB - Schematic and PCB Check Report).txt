@@ -1,0 +1,17 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Wednesday, February 12, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb
+Design Title:       
+Created:            26/01/2020 13:47:27
+Last Saved:         12/02/2020 20:39:13
+Editing Time:       673 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.sch" with PCB "E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb"
+==========================================================================================================================================================================================================================
+
+
+End Of Report.

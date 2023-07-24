@@ -1,0 +1,147 @@
+Plot Report
+-----------
+
+Report Written:     Thursday, February 13, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb
+Design Title:       
+Created:            26/01/2020 13:47:27
+Last Saved:         15/02/2020 5:34:42
+Editing Time:       743 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in mm.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------------
+    D10    Round 5.00
+    D11    Square 78.74
+    D12    Rectangle 74.80 X 196.85
+    D13    Rectangle 74.80 X 196.85  Rotation 90
+    D14    Chamfered Rectangle 78.74 X 157.48 X 19.69
+    D15    Square 118.11
+    D16    Square 86.61
+    D17    Round 90.55
+    D18    Round 98.43
+    D19    Round 56.00
+    D70    Round 47.24
+    D71    Round 66.93
+    D20    Round 78.74
+    D21    Round 15.75
+    D22    Round 59.06
+    D23    Round 68.90
+    D24    Round 86.61
+
+Gerber Output
+=============
+
+E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------------
+    D11    Square 78.74
+    D12    Rectangle 74.80 X 196.85
+    D13    Rectangle 74.80 X 196.85  Rotation 90
+    D14    Chamfered Rectangle 78.74 X 157.48 X 19.69
+    D15    Square 118.11
+    D16    Square 86.61
+    D17    Round 90.55
+    D18    Round 98.43
+    D19    Round 56.00
+    D70    Round 47.24
+    D71    Round 66.93
+    D20    Round 78.74
+    D21    Round 15.75
+    D22    Round 59.06
+    D23    Round 68.90
+    D24    Round 86.61
+
+NC Drill Output
+===============
+
+E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02362 inches 42    D
+    T002  0.03150 inches 2     C
+    T003  0.03937 inches 154   A
+    T004  0.05118 inches 26    B
+    --------------------------------------
+    Total                224
+    --------------------------------------
+
+E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02500 inches 1
+    --------------------------------------
+    Total                1
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2 - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 5.00
+
+End Of Report.

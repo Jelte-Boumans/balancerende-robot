@@ -1,0 +1,203 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Wednesday, February 12, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb
+Design Title:       
+Created:            26/01/2020 13:47:27
+Last Saved:         12/02/2020 16:20:46
+Editing Time:       411 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Pad error (P-P) at (512.765 487.339) on layer "[All]".
+    Error between Component Pad C1.1 (Net 'GND') and Component Pad C1.3, Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (518.353 487.339) on layer "[All]".
+    Error between Component Pad C1.2 (Net 'N0001') and Component Pad C1.4, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (512.765 492.339) and (512.572 492.339) on Layer "Bottom Copper".
+    Error between Component Pad C1.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (512.765 489.839) and (512.191 489.839) on Layer "Bottom Copper".
+    Error between Component Pad C1.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (518.729 489.839) and (519.303 489.839) on Layer "Bottom Copper".
+    Error between Component Pad C1.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (518.729 487.339) and (518.795 487.339) on Layer "Bottom Copper".
+    Error between Component Pad C1.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (512.257 471.337) on layer "[All]".
+    Error between Component Pad C2.1 (Net 'GND') and Component Pad C2.3, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (512.257 476.337) and (511.683 476.337) on Layer "Bottom Copper".
+    Error between Component Pad C2.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (512.257 473.837) and (511.683 473.837) on Layer "Bottom Copper".
+    Error between Component Pad C2.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (496.636 473.115) on layer "[All]".
+    Error between Component Pad C3.1 (Net 'GND') and Component Pad C3.3, Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (502.224 473.115) on layer "[All]".
+    Error between Component Pad C3.2 (Net 'N0001') and Component Pad C3.4, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (496.636 473.115) and (496.062 473.115) on Layer "Bottom Copper".
+    Error between Component Pad C3.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (496.636 478.115) and (496.316 478.115) on Layer "Bottom Copper".
+    Error between Component Pad C3.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (502.600 475.869) and (502.920 475.869) on Layer "Bottom Copper".
+    Error between Component Pad C3.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (502.600 475.615) and (503.174 475.615) on Layer "Bottom Copper".
+    Error between Component Pad C3.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (485.989 471.871) on layer "[All]".
+    Error between Component Pad C4.1 (Net 'GND') and Component Pad C4.3, Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (485.989 477.459) on layer "[All]".
+    Error between Component Pad C4.2 (Net 'N0001') and Component Pad C4.4, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (480.989 471.871) and (480.989 471.297) on Layer "Bottom Copper".
+    Error between Component Pad C4.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (485.989 471.871) and (485.989 471.297) on Layer "Bottom Copper".
+    Error between Component Pad C4.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (483.489 471.871) and (483.489 471.297) on Layer "Bottom Copper".
+    Error between Component Pad C4.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (483.489 477.835) and (483.489 478.409) on Layer "Bottom Copper".
+    Error between Component Pad C4.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (485.989 477.835) and (485.989 478.409) on Layer "Bottom Copper".
+    Error between Component Pad C4.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (470.114 471.998) on layer "[All]".
+    Error between Component Pad C5.1 (Net 'GND') and Component Pad C5.3, Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (470.114 477.586) on layer "[All]".
+    Error between Component Pad C5.2 (Net 'N0001') and Component Pad C5.4, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (467.614 471.998) and (467.614 471.424) on Layer "Bottom Copper".
+    Error between Component Pad C5.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (465.114 471.998) and (465.114 471.424) on Layer "Bottom Copper".
+    Error between Component Pad C5.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (467.614 471.998) and (467.614 471.424) on Layer "Bottom Copper".
+    Error between Component Pad C5.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (470.114 477.962) and (470.114 478.409) on Layer "Bottom Copper".
+    Error between Component Pad C5.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (467.614 477.962) and (467.614 478.536) on Layer "Bottom Copper".
+    Error between Component Pad C5.4 and Track (Net 'N0001'), Gap is 0.000 needs to be 0.300.
+Pad to Pad error (P-P) at (450.636 484.947) on layer "[All]".
+    Error between Component Pad C6.1 (Net 'GND') and Component Pad C6.3, Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (450.636 484.947) and (450.636 485.013) on Layer "Bottom Copper".
+    Error between Component Pad C6.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Track to Pad Error (T-P) between (453.136 484.947) and (453.136 485.521) on Layer "Bottom Copper".
+    Error between Component Pad C6.3 and Track (Net 'GND'), Gap is 0.000 needs to be 0.300.
+Pad to Pad Error (P-P) between (539.707 467.784) and (539.920 467.784) on Layer "[All]".
+    Error between Component Pad CONN3.10 (Net 'N0031') and Component Pad CONN3.5 (Net 'N0013'), Gap is 0.213 needs to be 0.300.
+Pad to Pad Error (P-P) between (539.707 470.324) and (539.920 470.324) on Layer "[All]".
+    Error between Component Pad CONN3.9 and Component Pad CONN3.4, Gap is 0.213 needs to be 0.300.
+Pad to Pad Error (P-P) between (539.707 472.864) and (539.920 472.864) on Layer "[All]".
+    Error between Component Pad CONN3.8 (Net 'N0030') and Component Pad CONN3.3 (Net 'N0032'), Gap is 0.213 needs to be 0.300.
+Pad to Pad Error (P-P) between (539.707 475.404) and (539.920 475.404) on Layer "[All]".
+    Error between Component Pad CONN3.7 (Net 'N0029') and Component Pad CONN3.2, Gap is 0.213 needs to be 0.300.
+Pad to Pad Error (P-P) between (539.707 477.944) and (539.920 477.944) on Layer "[All]".
+    Error between Component Pad CONN3.6 (Net 'GND') and Component Pad CONN3.1 (Net 'Vcc'), Gap is 0.213 needs to be 0.300.
+Component to Component Error (Cm-Cm) between (482.630 507.587) and (482.630 513.207) on Layer "[Top]".
+    IC4 - CONN1, Gap is 0.000.
+Component to Component error (Cm-Cm) at (482.630 498.110) on layer "[Top]".
+    IC4 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (523.240 482.219) and (529.590 482.219) on Layer "[Top]".
+    C1 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (507.746 466.217) and (507.746 462.407) on Layer "[Top]".
+    C2 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (466.979 484.886) and (449.326 484.886) on Layer "[Top]".
+    CONN6 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (520.319 507.619) and (520.319 513.207) on Layer "[Top]".
+    CONN2 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (489.966 484.886) and (489.966 462.407) on Layer "[Top]".
+    CONN5 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (505.617 507.587) and (505.617 513.207) on Layer "[Top]".
+    IC3 - CONN1, Gap is 0.000.
+Component to Component error (Cm-Cm) at (484.759 498.110) on layer "[Top]".
+    IC3 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (490.204 513.207) and (490.204 500.110) on Layer "[Top]".
+    CONN1 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (492.125 462.407) and (492.125 467.995) on Layer "[Top]".
+    CONN1 - C3, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (476.123 462.407) and (476.123 467.360) on Layer "[Top]".
+    CONN1 - C4, Gap is 0.000.
+Component to Component error (Cm-Cm) at (449.326 474.472) on layer "[Top]".
+    CONN1 - C6, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (460.248 462.407) and (460.248 467.487) on Layer "[Top]".
+    CONN1 - C5, Gap is 0.000.
+Component to Component error (Cm-Cm) at (460.248 474.472) on layer "[Top]".
+    C6 - C5, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (482.076 507.587) and (482.076 512.937) on Layer "[Bottom]".
+    IC4 - CONN1, Gap is 0.000.
+Component to Component error (Cm-Cm) at (482.076 498.110) on layer "[Bottom]".
+    IC4 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (520.253 487.339) and (529.320 487.339) on Layer "[Bottom]".
+    C1 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (510.733 471.337) and (510.733 462.677) on Layer "[Bottom]".
+    C2 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (467.376 485.283) and (449.596 485.283) on Layer "[Bottom]".
+    CONN6 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (519.152 504.547) and (519.152 512.937) on Layer "[Bottom]".
+    CONN2 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (490.363 485.283) and (490.363 462.677) on Layer "[Bottom]".
+    CONN5 - CONN1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (505.063 507.587) and (505.063 512.937) on Layer "[Bottom]".
+    IC3 - CONN1, Gap is 0.000.
+Component to Component error (Cm-Cm) at (485.283 498.110) on layer "[Bottom]".
+    IC3 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (490.204 512.937) and (490.204 500.110) on Layer "[Bottom]".
+    CONN1 - r1, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (495.112 462.677) and (495.112 473.115) on Layer "[Bottom]".
+    CONN1 - C3, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (480.989 462.677) and (480.989 470.347) on Layer "[Bottom]".
+    CONN1 - C4, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (449.596 477.459) and (450.636 477.459) on Layer "[Bottom]".
+    CONN1 - C6, Gap is 0.000.
+Component to Component Error (Cm-Cm) between (465.114 462.677) and (465.114 470.474) on Layer "[Bottom]".
+    CONN1 - C5, Gap is 0.000.
+Gap in Net "N0010" between (490.220,511.937) and (538.607,499.872) 
+    N0010.
+Gap in Net "N0011" between (487.680,511.937) and (538.607,502.412) 
+    N0011.
+Gap in Net "N0018" between (495.300,511.937) and (495.363,517.017) 
+    N0018.
+Gap in Net "N0019" between (492.760,511.937) and (492.824,517.017) 
+    N0019.
+
+Number of errors found : 70
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

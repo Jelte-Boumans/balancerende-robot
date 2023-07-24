@@ -1,0 +1,15 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Wednesday, February 12, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb
+Design Title:       
+Created:            26/01/2020 13:47:27
+Last Saved:         12/02/2020 20:39:13
+Editing Time:       673 min
+Units:              mm (precision 3)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.

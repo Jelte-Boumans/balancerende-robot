@@ -1,0 +1,22 @@
+Unmatched Fonts
+---------------
+
+Report Written:     Wednesday, February 12, 2020
+Design Path:        E:\School\SJS 6EA-ICT\EAC\GIP\EA\DesignSpark\Schema's\Shield\Versie 2\GIP Shield 2.pcb
+Design Title:       
+Created:            26/01/2020 13:47:27
+Last Saved:         5/02/2020 8:52:17
+Editing Time:       345 min
+Units:              mm (precision 3)
+
+
+The design has unmatched fonts on this system for the following:
+================================================================
+
+
+Unmatched fonts on named styles:
+================================
+
+    Font 'Century Gothic' used by text style 'Style1'
+
+End Of Report.
